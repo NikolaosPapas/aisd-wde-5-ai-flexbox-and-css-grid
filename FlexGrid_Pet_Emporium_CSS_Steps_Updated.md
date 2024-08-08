@@ -68,7 +68,7 @@ Now let's start coding with the help of AI.
 
 3. **Add Pet Image Boxes Section**
    - **What to ask AI:**
-      Now that we have a navigation bar, let's add 12 boxes for the pet photos with cute pet names and short personality descriptions. Can you provide me with HTML code to add a section under the main content area with 12 image boxes for pet photos located in the assets/images folder? The photos are named Pet1.jpg to Pet12.jpg. Each box should have an image, a cute pet name, and a short personality description underneath. Please ensure this code uses a `<section>` tag with a class of "pet-gallery".  
+     Now that we have a navigation bar, let's add 12 boxes for the pet photos with cute pet names and short personality descriptions. Can you provide me with HTML code to add a section under the main content area with 12 image boxes for pet photos located in the `assets/images` folder? The photos are named Pet1.jpg to Pet12.jpg. Each box should have an image, a cute pet name, and a short personality description underneath. Please ensure this code uses a `<section>` tag with a class of "pet-gallery".  
    - **Where to place the provided code:**
      - Open your `index.html` file.
      - Locate the existing `<main>` tag in your `index.html` file. This tag should already contain the initial `<p>` tag with the business description.
@@ -94,19 +94,28 @@ Next, we can add some styling.
    - **What to ask AI:**
      Can you provide me with CSS code to set some basic styles, such as margin, padding, and box-sizing for all elements, and set a font for the body?
    - **Where to place the provided code:**
-     Copy the CSS code provided by the AI and paste it in your `styles.css` file.
+     Copy the CSS code provided by the AI and paste it at the bottom of your `styles.css` file.
 
-2. **Style the Header and Navigation Bar**
+2. **Set Background Image for the Entire Page**
    - **What to ask AI:**
-     Can you provide me with CSS code to style the header and navigation bar, making the nav bar a black bar at the top of the page with white text? Here is the `html` code to use for reference for styling.
-     **(copy and paste the nav bar code from your html file to include with the AI ask `<nav>` to `</nav>`)**
+     Can you provide me with CSS code to set a background image for the entire page using an image located at `assets/images/Background.jpg`? The image should cover the whole page and adjust responsively.
    - **Where to place the provided code:**
-     Copy the CSS code provided by the AI and paste it nexr of in `styles.css` file.
-  
-3. **Style the Navigation Bar**
+     Copy the CSS code provided by the AI and paste it next in your `styles.css` file.
+
+3. **Style the Header and Navigation Bar**
    - **What to ask AI:**
-     Can you provide me with CSS code to style the navigation bar? The navigation bar should be full-width with a black background. Use Flexbox to handle the layout and ensure the text is centered within the navigation bar. Use my navigation html code supplied here for reference when building the CSS please. 
-     **(Now copy and paste all the nav bar code  `<nav>` all your code `</nav>` from your `index.html` into the current AI request so it can be used by AI for reference when building out the CSS)**
+     Can you provide me with CSS code to style the header and navigation bar, making the nav bar a black bar at the top with white text?
    - **Where to place the provided code:**
-     - Open your `styles.css` file and paste the supplied CSS code for the navigation bar next in the `styles.css` file.
-   
+     Copy the CSS code provided by the AI and paste it at the bottom of your `styles.css` file.
+
+4. **Style the Pet Gallery**
+   - **What to ask AI:**
+     Can you provide me with CSS code to style the pet gallery section, making sure the images are responsive and the pet boxes are arranged in a grid layout?
+   - **Where to place the provided code:**
+     Copy the CSS code provided by the AI and paste it at the bottom of your `styles.css` file.
+
+5. **Add Styles for Location and Hours Section**
+   - **What to ask AI:**
+     Can you provide me with CSS code to style the location and hours section, making the text readable and well-structured?
+   - **Where to place the provided code:**
+     Copy the CSS code provided by the AI and paste it at the bottom of your `styles.css` file.
