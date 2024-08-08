@@ -52,19 +52,20 @@ Now let's start coding with the help of AI.
 
 #### Steps to ask AI
 
-1. **Add HTML Boilerplate with Web Page Title and Footer**
-   - **What to ask AI:**
-     Can you provide me with a detailed HTML boilerplate for a web page with a header, main content area, and footer, along with a linked CSS file, and title the page 'FlexGrids Pet Emporium'. Include an h1 tag in the header and a p tag in the main content area with a witty description for a pet store. This "witty description" should be a p tag with a class of "store-description".
-   - **Where to place the provided code:**
-     Copy the HTML boilerplate code provided by the AI and paste it into your `index.html` file.
-
-2. **Add Navigation Bar Code**
+1. **Add Navigation Bar Code**
    - **What to ask AI:**
      Can you provide me with HTML code to add a navigation bar with "Login," "Our Locations," and "Contact Us" options to my existing HTML boilerplate? The nav bar will be a black bar at the top once I style it.
    - **Where to place the provided code:**
      - Open your `index.html` file.
      - Locate the `<header>` tag in your `index.html` file. The `<header>` tag should be inside the `<body>` tags.
      - Paste the copied navigation bar code between the `<body>` and the `<header>` tags.
+
+2. **Add HTML Boilerplate with Web Page Title and Footer**
+   - **What to ask AI:**
+     Can you provide me with a detailed HTML boilerplate for a web page with a header, main content area, and footer, along with a linked CSS file, and title the page 'FlexGrids Pet Emporium'. Include an h1 tag in the header and a p tag in the main content area with a witty description for a pet store. This "witty description" should be a p tag with a class of "store-description".
+   - **Where to place the provided code:**
+     Copy the HTML boilerplate code provided by the AI and paste it into your `index.html` file.
+
 
 3. **Add Pet Image Boxes Section**
    - **What to ask AI:**
@@ -76,7 +77,7 @@ Now let's start coding with the help of AI.
 
 4. **Add a Section for Location and Hours**
    - **What to ask AI:**
-     Next, let's add a section for the location and hours. Can you provide me with HTML code to add a section for location and hours, including an address, phone number, and business hours? 
+     Next, let's add a section for the location and hours. Can you provide me with HTML code to add a section for location and hours, including an address, phone number, and business hours? Please give this section a class of "location-hours"
    - **Where to place the provided code:**
      - Open your `index.html` file.
      - Locate the existing `<footer>` tag in your `index.html` file.
@@ -93,20 +94,73 @@ Next, we can add some styling.
 1. **Add Basic Styles**
    - **What to ask AI:**
      Can you provide me with CSS code to set some basic styles, such as margin, padding, and box-sizing for all elements, and set a font for the body?
-   - **Where to place the provided code:**
+   - **Where to place the provided AI code:**
      Copy the CSS code provided by the AI and paste it in your `styles.css` file.
 
 2. **Style the Header and Navigation Bar**
    - **What to ask AI:**
      Can you provide me with CSS code to style the header and navigation bar, making the nav bar a black bar at the top of the page with white text? Here is the `html` code to use for reference for styling.
      **(copy and paste the nav bar code from your html file to include with the AI ask `<nav>` to `</nav>`)**
-   - **Where to place the provided code:**
+   - **Where to place the provided AI code:**
      Copy the CSS code provided by the AI and paste it nexr of in `styles.css` file.
   
 3. **Style the Navigation Bar**
    - **What to ask AI:**
      Can you provide me with CSS code to style the navigation bar? The navigation bar should be full-width with a black background. Use Flexbox to handle the layout and ensure the text is centered within the navigation bar. Use my navigation html code supplied here for reference when building the CSS please. 
      *(Now copy and paste all the nav bar code  `<nav>` all your code `</nav>` from your `index.html` into the current AI request so it can be used by AI for reference when building out the CSS)*
-   - **Where to place the provided code:**
+   - **Where to place the provided AI code:**
      - Open your `styles.css` file and paste the supplied CSS code for the navigation bar next in the `styles.css` file.
+
+ 3. **Style the Navigation Bar**
+   - **What to ask AI:**
+     Paste the code from the `index.html` file for the entire navigation bar tags (`<nav>` all your code `</nav>`) and ask the following below then hit enter:
+     Can you provide me with CSS code to style the navigation bar? The navigation bar should be full-width with a black background. Use Flexbox to handle the layout and ensure the text is centered within the navigation bar. Use my navigation HTML code supplied here for reference when building the CSS.
+   - **Where to place the provided AI code:**
+     - Open your `styles.css` file and paste the supplied CSS code for the navigation bar next in the `styles.css` file.
+
    
+4. **Style the h1 Page Title**
+   - **What to ask AI:**
+     Can you provide me with CSS code to style the `<h1>` header? The header should be big, bold, centered, and include a shadow effect.
+   - **Where to place the provided AI code:**
+     - Open your `styles.css` file and paste the supplied CSS code for the `<h1>` header next in the `styles.css` file.
+
+5. **Style the Company Description `<p>` Tag**
+   - **What to ask AI:**
+     Can you provide me with CSS code to style the `<p>` tag with the class of store-description? The paragraph should be centered under the `<h1>` header and appear in a box with a transparent, lighter background color and a border around it. The box should adjust responsively with the screen size and include padding and margins for spacing.
+   - **Where to place the provided AI code:**
+     - Open your `styles.css` file and paste the supplied CSS code for the `.store-description` class `<p>` tag next in the `styles.css` file.
+
+6. **Style the Pet Gallery Section**
+   - **What to ask AI:**
+     Paste the code from the `index.html` file from the entire pet gallery section tags (`<section class="pet-gallery">` all your code `</section>`)  and ask the following below then hit enter:
+     Can you provide me with CSS code to style the pet photo boxes in the `.pet-gallery` section? I need the following layout: 
+     - use CSS grid
+     - The pet name (`<h3>`) should be larger and positioned at the top in each box.
+     - There should be no rule between the pet name and the description (`<p>` tag).
+     - Each box should have a border around it, and the photo should have a rule separating it from the description.
+     - Ensure there are no more than 6 boxes per row. All boxes should have a white background and be responsive to browser size changes.
+     - There should also be a small margin of space on the right and left side of the web page.
+   - **Where to place the provided AI code:**
+     - Open your `styles.css` file and paste the supplied CSS code for the `.pet-gallery` section next in the `styles.css` file.
+
+7. **Style the Location and Hours Section**
+   - **What to ask AI:**
+     Provide me the CSS code to style the location and hours section. Use a `<section>` class of `location-hours` to style it. The section should be centered on the page with text aligned in the center. Ensure the background of the section is fully transparent, include extra spacing between lines of text, and add padding around the section. There should be no border around the section and any list items inside should not have dots (bullets). The content should be responsive to different screen sizes.
+   - **Where to place the provided AI code:**
+     - Open your `styles.css` file and paste the supplied CSS code for the `.location-hours` class next in the `styles.css` file.
+
+8. **Style the Footer**
+   - **What to ask AI:**
+     Can you provide me with CSS code to style the footer? I need the footer to have a black background with white text. Ensure that the text is centered within the footer, and include padding around the content. The footer should be styled to be visually distinct and stand out from the rest of the page.
+   - **Where to place the provided AI code:**
+     - Open your `styles.css` file and paste the supplied CSS code for the `footer` tag next in the `styles.css` file.
+
+
+## Test the Results
+
+**Congratulations!** If you test your `index.html` file in the browser now, you should see a web page that somewhat resembles the example at the top of this README.
+
+Feel free to add more CSS and HTML, as well as tweak the current code. Customize and enhance your page and make it your own as you see fit. 
+
+*Happy coding!*
