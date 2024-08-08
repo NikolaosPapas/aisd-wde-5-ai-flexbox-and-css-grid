@@ -17,31 +17,32 @@ grid_layout_project
     └───images
 ```
 
+
 ## Steps
 
 - **Create HTML and CSS Files:**
-  1. Create a new HTML file named `index.html`.
-  2. Create a new CSS file named `styles.css`.
+  - Create a new HTML file named `index.html`.
+  - Create a new CSS file named `styles.css`.
 
 - **Create the Project Folder:**
-  1. Create a main project folder named `FlexGridsPetEmporium`.
+  - Create a main project folder named `FlexGridsPetEmporium`.
 
 - **Inside the Project Folder:**
-  1. Create a folder named `assets`.
+  - Create a folder named `assets`.
 
 - **Inside the assets Folder:**
-  1. Create another folder named `images`.
+  - Create another folder named `images`.
 
 - **Download Pet Photos:**
-  1. Go to [Pexels.com](https://www.pexels.com) and download 12 pet photos of your choice.
+  - Go to [Pexels.com](https://www.pexels.com) and download 12 pet photos of your choice.
 
 - **Rename the Photos:**
-  1. Rename the downloaded photos to shorter names for easier reference, such as `Pet1.jpg`, `Pet2.jpg`, ..., `Pet12.jpg`.
+  - Rename the downloaded photos to shorter names for easier reference, such as `Pet1.jpg`, `Pet2.jpg`, ..., `Pet12.jpg`.
 
 - **Place the Photos in the images Folder:**
-  1. Move the downloaded (and renamed) pet photos into the `images` folder inside the `assets` folder.
+  - Move the downloaded (and renamed) pet photos into the `images` folder inside the `assets` folder.
 
 - **Download Background Image:**
-  1. Go to [Pexels.com](https://www.pexels.com) and search for light background images.
-  2. Find something that you think will work with your Pet Store site and download it.
-  3. Rename this image to `Background.jpg` and also place it in the `assets/images` folder.
+  - Go to [Pexels.com](https://www.pexels.com) and search for light background images.
+  - Find something that you think will work with your Pet Store site and download it.
+  - Rename this image to `Background.jpg` and also place it in the `assets/images` folder.
