@@ -106,7 +106,7 @@ Next, we can add some styling.
 3. **Style the Navigation Bar**
    - **What to ask AI:**
      Can you provide me with CSS code to style the navigation bar? The navigation bar should be full-width with a black background. Use Flexbox to handle the layout and ensure the text is centered within the navigation bar. Use my navigation html code supplied here for reference when building the CSS please. 
-     **(Now copy and paste all the nav bar code  `<nav>` all your code `</nav>` from your `index.html` into the current AI request so it can be used by AI for reference when building out the CSS)**
+     *(Now copy and paste all the nav bar code  `<nav>` all your code `</nav>` from your `index.html` into the current AI request so it can be used by AI for reference when building out the CSS)*
    - **Where to place the provided code:**
      - Open your `styles.css` file and paste the supplied CSS code for the navigation bar next in the `styles.css` file.
    
