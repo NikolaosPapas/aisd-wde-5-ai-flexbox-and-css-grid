@@ -163,4 +163,5 @@ Next, we can add some styling.
 
 - Feel free to add more CSS and HTML, as well as tweak the current code. 
 - Customize and enhance your page and make it your own as you see fit. 
+
 *Happy coding!*
