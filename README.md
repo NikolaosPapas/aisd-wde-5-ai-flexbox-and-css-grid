@@ -52,24 +52,24 @@ Now let's start coding with the help of AI.
 
 #### Steps to ask AI
 
-1. **Add HTML Boilerplate with Web Page Title**
+1. **Add HTML Boilerplate with Web Page Title and Footer**
    - **What to ask AI:**
-     Can you provide me with a detailed HTML boilerplate for a web page with a header, main content area, and footer, along with a linked CSS file, and title the page 'FlexGrids Pet Emporium'? Include an h1 tag in the header and a p tag in the main content area with a witty description for a pet store. This "witty description" should be a p tag with a class of "store-description".
-   - **Where to place the code:**
+     Can you provide me with a detailed HTML boilerplate for a web page with a header, main content area, and footer, along with a linked CSS file, and title the page 'FlexGrids Pet Emporium'. Include an h1 tag in the header and a p tag in the main content area with a witty description for a pet store. This "witty description" should be a p tag with a class of "store-description".
+   - **Where to place the provided code:**
      Copy the HTML boilerplate code provided by the AI and paste it into your `index.html` file.
 
 2. **Add Navigation Bar Code**
    - **What to ask AI:**
-     Can you provide me with HTML code to add a navigation bar with "Login," "Our Locations," and "Contact Us" options to my existing HTML boilerplate? The nav bar will be a colored bar once I style it.
-   - **Where to place the code:**
+     Can you provide me with HTML code to add a navigation bar with "Login," "Our Locations," and "Contact Us" options to my existing HTML boilerplate? The nav bar will be a black bar at the top once I style it.
+   - **Where to place the provided code:**
      - Open your `index.html` file.
      - Locate the `<header>` tag in your `index.html` file. The `<header>` tag should be inside the `<body>` tags.
      - Paste the copied navigation bar code between the `<body>` and the `<header>` tags.
 
 3. **Add Pet Image Boxes Section**
    - **What to ask AI:**
-      Now that we have a navigation bar, let's add 12 boxes for the pet photos with cute pet names and short personality descriptions. Can you provide me with HTML code to add a section under the main content area with 12 image boxes for pet photos located in the assets/images folder? The photos are named Pet1.jpg to Pet12.jpg. Each box should have an image, a cute pet name, and a short personality description underneath. Please ensure the section uses a <section> tag with a class of "pet-gallery".  
-   - **Where to place the code:**
+      Now that we have a navigation bar, let's add 12 boxes for the pet photos with cute pet names and short personality descriptions. Can you provide me with HTML code to add a section under the main content area with 12 image boxes for pet photos located in the assets/images folder? The photos are named Pet1.jpg to Pet12.jpg. Each box should have an image, a cute pet name, and a short personality description underneath. Please ensure this code uses a `<section>` tag with a class of "pet-gallery".  
+   - **Where to place the provided code:**
      - Open your `index.html` file.
      - Locate the existing `<main>` tag in your `index.html` file. This tag should already contain the initial `<p>` tag with the business description.
      - Paste all the copied pet image boxes `<section>` code directly below the existing `<p>` tag inside the `<main>`. This will ensure that the pet image boxes section appears right after the business description.
@@ -77,10 +77,10 @@ Now let's start coding with the help of AI.
 4. **Add a Section for Location and Hours**
    - **What to ask AI:**
      Next, let's add a section for the location and hours. Can you provide me with HTML code to add a section for location and hours, including an address, phone number, and business hours? 
-   - **Where to place the code:**
+   - **Where to place the provided code:**
      - Open your `index.html` file.
      - Locate the existing `<footer>` tag in your `index.html` file.
      - Paste the copied location and hours section code directly above the `<footer>` tag.
 
-*Now test your `index.html` file in the browser. You should see the skeleton of a web page coming together. Next, we can add some styling.*
+5. **Now test your `index.html` file in the browser. You should see the skeleton of a web page coming together. Next, we can add some styling.**
 
