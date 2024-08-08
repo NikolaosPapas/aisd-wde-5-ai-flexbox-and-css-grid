@@ -83,4 +83,5 @@ Now let's start coding with the help of AI.
      - Paste the copied location and hours section code directly above the `<footer>` tag.
 
 5. **Now test your `index.html` file in the browser. You should see the skeleton of a web page coming together. Next, we can add some styling.**
-
+![Small Image](assets/images/example2.jpg)
+<img src="assets/images/example2.jpg" alt="Small Image" width="100" height="100">
