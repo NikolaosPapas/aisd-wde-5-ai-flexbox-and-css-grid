@@ -161,6 +161,7 @@ Next, we can add some styling.
 
 **Congratulations!** If you test your `index.html` file in the browser now, you should see a web page that somewhat resembles the example at the top of this README.
 
-Feel free to add more CSS and HTML, as well as tweak the current code. Customize and enhance your page and make it your own as you see fit. 
+Feel free to add more CSS and HTML, as well as tweak the current code. 
+Customize and enhance your page and make it your own as you see fit. 
 
-*Happy coding!*
+**Happy coding!**
