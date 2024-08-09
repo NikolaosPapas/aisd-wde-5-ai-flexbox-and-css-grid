@@ -1,5 +1,5 @@
 
-# Advanced Flexbox and Grid
+# WDE05 AI Generated Flexbox and Grid Page
 
 ## FlexGrid Pet Emporium
 ![Screenshot of the project](assets/images/example.jpg)
