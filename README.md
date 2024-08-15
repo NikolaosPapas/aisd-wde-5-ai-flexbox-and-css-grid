@@ -164,6 +164,18 @@ Next, we can add some styling.
 - Feel free to add more CSS and HTML, as well as tweak the current code. 
 - Customize and enhance your page and make it your own as you see fit. 
 
+## Maybe ask AI to help you understand your final project
+
+When reviewing this project with an AI assistant, consider asking the following:
+
+1. Can you explain the working of my final code?
+2. How does the HTML structure support the overall design?
+3. What is the purpose of each CSS rule in the stylesheet?
+4. Are there any potential improvements or optimizations for the code?
+5. How does this code implement best practices in web development?
+
+Remember to provide the AI with specific code snippets or full file contents for the most accurate and helpful explanations.
+
 *Happy coding!*
 
 ---
