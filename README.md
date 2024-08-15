@@ -164,7 +164,7 @@ Next, we can add some styling.
 - Feel free to add more CSS and HTML, as well as tweak the current code. 
 - Customize and enhance your page and make it your own as you see fit. 
 
-## Maybe ask AI to help you understand you final project
+## Maybe ask AI to help you understand your final project
 
 When reviewing this project with an AI assistant, consider asking the following:
 
