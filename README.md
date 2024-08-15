@@ -113,7 +113,7 @@ Next, we can add some styling.
 
  3. **Style the Navigation Bar**
    - **What to ask AI:**
-     Paste the code from the `index.html` file for the entire navigation bar tags (`<nav>` all your code `</nav>`) and ask the following below then hit enter:
+     Paste in the code from the `index.html` file for the entire navigation bar tags (`<nav>` all your code `</nav>`) and ask the AI chat the following:
      Can you provide me with CSS code to style the navigation bar? The navigation bar should be full-width with a black background. Use Flexbox to handle the layout and ensure the text is centered within the navigation bar. Use my navigation HTML code supplied here for reference when building the CSS.
    - **Where to place the provided AI code:**
      - Open your `styles.css` file and paste the supplied CSS code for the navigation bar next in the `styles.css` file.
@@ -133,7 +133,7 @@ Next, we can add some styling.
 
 6. **Style the Pet Gallery Section**
    - **What to ask AI:**
-     Paste the code from the `index.html` file from the entire pet gallery section tags (`<section class="pet-gallery">` all your code `</section>`)  and ask the following below then hit enter:
+     Paste the code from the `index.html` file from the entire pet gallery section tags (`<section class="pet-gallery">` all your code `</section>`)  and ask the AI chat the following:
      Can you provide me with CSS code to style the pet photo boxes in the `.pet-gallery` section? I need the following layout: 
      - use CSS grid
      - The pet name (`<h3>`) should be larger and positioned at the top in each box.
@@ -165,3 +165,7 @@ Next, we can add some styling.
 - Customize and enhance your page and make it your own as you see fit. 
 
 *Happy coding!*
+
+---
+
+© All rights reserved to ThriveDX
