@@ -50,7 +50,7 @@ FlexGridsPetEmporium
 Now let's start coding with the help of AI.
 ##
 
-## 6. **Add HTML Boilerplate**
+## 6. **Add HTML Boilerplate And Background Image**
 Now that you have your files set up, start by adding the basic HTML5 boilerplate and the basic structure for our web page including the background image.
 
   - [ ] Ask AI to generate an HTML boilerplate for a webpage that includes a `header` with an `h1` tag, a `main` content area that includes a `p` tag, and a `footer`. The page should be titled 'FlexGrid's Pet Emporium' and linked to a CSS file. Please include a witty description for a pet store in the main content area, using a `p` tag with the class store-description.
