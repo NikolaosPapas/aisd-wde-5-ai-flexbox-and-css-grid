@@ -98,7 +98,7 @@ Let's review our progress by viewing the current unstyled webpage in the browser
 - [ ] Open your index.html file in the browser and review the current progress
 
 The unstyled page should resemble something like this:
-![Screenshot of the project](assets/images/example2.jpg)
+![Screenshot of the project](assets/images/example2.png)
 ##
 
 
