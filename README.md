@@ -6,7 +6,7 @@
 ##
 
 ## Description 📄
-In this assignment, you'll work on your own to create a responsive pet store webpage titled "FlexGrid's Pet Emporium" using Flexbox and CSS Grid, with step-by-step guidance from AI. Let's get started!
+In this assignment, you'll create a responsive pet store webpage titled "FlexGrid's Pet Emporium" using Flexbox and CSS Grid, with step-by-step guidance from AI.
 
 ## Expected Project Structure 🏗️
 
@@ -47,7 +47,7 @@ FlexGridsPetEmporium
    - [ ] Rename this image to `Background.jpg` and also place it in the `assets/images` folder.
 
 ##
-Now let's start coding with the help of AI.
+Now begin coding with the help of AI.
 ##
 
 ## 6. **Add HTML Boilerplate And Background Image**
@@ -60,12 +60,12 @@ Now that you have your files set up, start by adding the basic HTML5 boilerplate
   - [ ] Copy all of the HTML boilerplate code provided by AI and paste it into your `index.html` file.
 
 **Explanation:**
-In this step, we set up the basic structure of our webpage by asking AI to generate an HTML5 boilerplate, including a header and main content area, which we then copied and pasted into the index.html file.
+In this step, you can set up the basic structure of your webpage by asking AI to generate an HTML5 boilerplate, including a header and main content area, which you can then copy and paste into the index.html file.
 
 ## 7. **Add Navigation Bar Code**
 In this step, you'll ask AI for help to add a navigation bar to your webpage that includes options for "Login," "Our Locations," and "Contact Us." 
 
-  - [ ]  We need `HTML` code to add a navigation bar with "Login," "Our Locations," and "Contact Us" options to the existing HTML boilerplate. The nav bar will be a black bar at the top once it is styled. 
+  - [ ]  You need `HTML` code to add a navigation bar with "Login," "Our Locations," and "Contact Us" options to the existing HTML boilerplate. The nav bar will be a black bar at the top once it is styled. 
   - [ ] Open your `index.html` file. and locate the `<header>` tag. Paste the navigation bar code between the `<body>` and the `<header>` tags.
 
 **Explanation:**
@@ -73,7 +73,7 @@ This step introduces a navigation bar that will allow users to easily access key
 
 
 ## 8. **Add Pet Image Boxes Section**
-Now that we have a navigation bar, let's add 12 boxes for the pet photos with cute pet names and short personality descriptions.
+Now that you have a navigation bar, add 12 boxes for the pet photos with cute pet names and short personality descriptions.
 
   - [ ] Ask for help to create `HTML` code adding a section under the main content area with 12 image boxes for pet photos. The photos are located in the assets/images folder. The photos are named Pet1.jpg to Pet12.jpg. Each box should have an image, a cute pet name, and a short personality description underneath. Please ensure this code uses a `<section>` tag with a class of "pet-gallery".  
   - [ ] Open your `index.html` file and locate the existing `<main>` tag. This tag should already contain the initial `<p>` tag with the business description.
@@ -93,7 +93,7 @@ Next, let's add a section for the location and hours.
 In this step, you're adding a section to your webpage that provides essential information about your business, including the location, contact details, and operating hours.
 
 ## 10. **Test your current progress**
-Let's review our progress by viewing the current unstyled webpage in the browser.
+Review your progress by viewing the current unstyled webpage in the browser.
 
 - [ ] Open your index.html file in the browser and review the current progress
 
@@ -104,7 +104,7 @@ The unstyled page should resemble something like this:
 
 
 ## 11. **Add Basic Styles**
-Let's ask AI for help to add some CSS code to our `styles.css` file.
+Ask AI for help to add some CSS code to your `styles.css` file.
 
   - [ ] Provide CSS code to set some basic styles, such as margin, padding, and box-sizing for all elements, and set a font for the body.
   - [ ] Copy the CSS code  and paste it in your `styles.css` file.
@@ -113,10 +113,10 @@ Let's ask AI for help to add some CSS code to our `styles.css` file.
 In this step, you're establishing the foundational styling for your webpage by setting universal styles for all elements. 
 
 ## 12. **Style the Navigation Bar**
-Now we can style our Navigation bar for our project.
+Now you can style your Navigation bar for your project.
 
   - [ ] Copy and paste the nav bar code from your `index.html` into an AI chat, include everything from <nav> to </nav>. Ask AI to use this HTML code as a reference when building the upcoming CSS requests.
-  - [ ] We now need CSS code to style the header and navigation bar, making the nav bar full width, a black background, and locate it at the top of the page.
+  - [ ] You now need CSS code to style the header and navigation bar, making the nav bar full width, a black background, and locate it at the top of the page.
   - [ ] The text should all be white in color. 
   - [ ] Please use Flexbox to handle the layout and ensure any text is centered within the navigation bar. Make sure to use the navigation `HTML code` supplied previously for reference when building the CSS.
   - [ ] Copy the CSS code provided by the AI and paste it next in the `styles.css` file.
@@ -125,28 +125,28 @@ Now we can style our Navigation bar for our project.
 This step involves styling the navigation bar to make it full-width with a black background and centered white text, using Flexbox for layout.
 
 ## 13. **Style the h1 Page Title**
-In this step, we'll focus on styling the h1 page title to make it visually prominent and aligned with the overall design of the webpage.
+In this step, you'll focus on styling the h1 page title to make it visually prominent and aligned with the overall design of the webpage.
  
   - [ ] Provide CSS code to style the `<h1>` header.  The header should be big, bold, centered, and include a shadow effect.
   - [ ] Open your `styles.css` file and paste the supplied CSS code for the `<h1>` header next in the file.
 
 **Explanation:**
-In this step, we styled the h1 page title using CSS making it big, bold, and centered.
+In this step, you styled the `<h1>` page title using CSS making it big, bold, and centered.
 
 ## 14.  **Style the Company Description `<p>` Tag**
-In this step, we'll style the company description `<p>` tag to ensure it is visually appealing and consistent with the overall design of the webpage.
+In this step, you'll style the company description `<p>` tag to ensure it is visually appealing and consistent with the overall design of the webpage.
 
   - [ ] Provide CSS code to style the `<p>` tag with the class of store-description. The paragraph should be centered under the `<h1>` header and appear in a box with a transparent, lighter background color and a border around it. The box should adjust responsively with the screen size and include padding and margins for spacing.
   - [ ] Open your `styles.css` file and paste the supplied CSS code for the `.store-description` class `<p>` tag next in the `styles.css` file.
 
 **Explanation:**
-In this step, we styled the .store-description `<p>` tag to appear centered under the `<h1>` header.
+In this step, you styled the .store-description `<p>` tag to appear centered under the `<h1>` header.
 
 ## 15. **Style the Pet Gallery Section**
-In this step, we'll style the Pet Gallery section by using CSS Grid to create a responsive layout for the pet photo boxes.
+In this step, you'll style the Pet Gallery section by using CSS Grid to create a responsive layout for the pet photo boxes.
 
   - [ ] Paste the code from the `index.html` file from the entire pet gallery section tags (`<section class="pet-gallery">` all your code `</section>`). Ask AI to use this HTML code as a reference when building the upcoming CSS requests.
-  - [ ] We need CSS code to style the pet photo boxes in the `.pet-gallery` section.
+  - [ ] You need CSS code to style the pet photo boxes in the `.pet-gallery` section.
   I need all of the following included in the layout: 
      - use CSS grid
      - The pet name (`<h3>`) should be larger and positioned at the top in each box.
@@ -157,25 +157,25 @@ In this step, we'll style the Pet Gallery section by using CSS Grid to create a 
   - [ ] Open your `styles.css` file and paste the new CSS code for the `.pet-gallery` section next in the `styles.css` file.
 
 **Explanation:**
-In this step, we focused on styling the Pet Gallery section by using CSS Grid to create a visually appealing and responsive layout for the pet photo boxes.  
+In this step, you focused on styling the Pet Gallery section by using CSS Grid to create a visually appealing and responsive layout for the pet photo boxes.  
 
 ## 16. **Style the Location and Hours Section**
-In this step, we're focusing on styling the Location and Hours section by using the .location-hours class. 
+In this step, you're focusing on styling the Location and Hours section by using the .location-hours class. 
 
   - [ ] Provide me the CSS code to style the location and hours section. Use a `<section>` class of `location-hours` to style it. The section should be centered on the page with text aligned in the center. Ensure the background of the section is fully transparent, include extra spacing between lines of text, and add padding around the section. There should be no border around the section and any list items inside should not have dots (bullets). The content should be responsive to different screen sizes.
   - [ ] Open your `styles.css` file and paste the supplied CSS code for the `.location-hours` class next in the `styles.css` file.
 
 **Explanation:**
-In this step, we generated CSS code to style the Location and Hours section by centering the section and its text on the page, adding extra spacing between lines, and padding around the content.
+In this step, you generated CSS code to style the Location and Hours section by centering the section and its text on the page, adding extra spacing between lines, and padding around the content.
 
 ## 17. **Style the Footer**
-Finally, we'll style the footer to ensure it stands out and complements the overall design.
+Finally, you'll style the footer to ensure it stands out and complements the overall design.
 
-- [ ] We now need CSS code to style the footer. I need the footer to have a black background with white text. Ensure that the text is centered within the footer, and include padding around the content. The footer should be styled to be visually distinct and stand out from the rest of the page.
+- [ ] You now need CSS code to style the footer. I need the footer to have a black background with white text. Ensure that the text is centered within the footer, and include padding around the content. The footer should be styled to be visually distinct and stand out from the rest of the page.
 - [ ] Open your `styles.css` file and paste the supplied CSS code for the `footer` tag next in the `styles.css` file.
 
 **Explanation:**
-In this step, we generated CSS code to style the footer with a black background and white, centered text, ensuring it stands out from the rest of the page. After creating the CSS, we pasted it into the styles.css file to apply the styles to the footer.
+In this step, you generated CSS code to style the footer with a black background and white, centered text, ensuring it stands out from the rest of the page. After creating the CSS, you pasted it into the styles.css file to apply the styles to the footer.
 
 ## 18. **Test the Results**
 In this step, you'll test your webpage in the browser to ensure it resembles the example and make any desired adjustments.
